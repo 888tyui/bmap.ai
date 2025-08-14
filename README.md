@@ -3,6 +3,8 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)]()
+[![Website](https://img.shields.io/badge/Website-bmap.fun-orange.svg)](https://bmap.fun)
+[![X (Twitter)](https://img.shields.io/badge/X-@bmapdotfun-black.svg)](https://x.com/bmapdotfun)
 
 Blockchain wallet analysis using AI
 
